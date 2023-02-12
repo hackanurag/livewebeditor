@@ -1,4 +1,4 @@
 # Getting Started with livewebeditor
-
-This project was bootstrapped with [Create React App](https://hackanurag.github.io/livewebeditor).
+This is a clone of online popular website Codepen. 
+Please check [livewebeditor](https://hackanurag.github.io/livewebeditor).
 
